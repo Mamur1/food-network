@@ -1,0 +1,42 @@
+h1{
+    font-size: 27px;
+    text-align: center;
+}
+.tomoto-color{
+    color: orange;
+}
+.flexible-continer{
+    display: flex;
+    margin-bottom: 100px;
+}
+.half-widh{
+    width: 50%;
+    padding-left: 7%;
+}
+.half-widh img{
+    width: 70%;
+}
+.link-button{
+    text-decoration: none;
+    padding: 11PX 27PX ;
+    background-color: orangered;
+    border-radius: 7px;
+    font-weight: 700;
+} 
+.xperience-item{
+    width: 100%;
+    margin-right: 5%;
+    margin-left: 5%;
+    padding: 20px;
+    box-shadow:11px 11px 40px gray;
+   
+} 
+.bangla-food{
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    webkit-background-composite: border;
+}
+footer  p{
+    text-align: center;
+}
